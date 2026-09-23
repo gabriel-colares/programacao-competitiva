@@ -1,0 +1,19 @@
+# Ferramentas locais
+.serena/
+.vscode/
+
+# Binários e resultados de testes
+a.out
+elevador
+*.exe
+*.o
+*.out
+!aula-*/testes/*.out
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
