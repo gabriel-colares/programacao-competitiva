@@ -45,3 +45,10 @@ repetições, não resolver problemas avançados rapidamente.
 
 Uma submissão aceita confirma apenas que o código passou pelos testes daquele
 judge. Continue avaliando clareza, complexidade e casos especiais.
+
+## Próximo passo
+
+Quando estiver confortável com submissões, consulte as
+[competições e contests](competicoes.md) para participar de rodadas ao vivo. O
+[Espaço das Programadoras](programadoras.md) apresenta também competições
+femininas, seletivas e caminhos para representar o Brasil.

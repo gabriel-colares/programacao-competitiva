@@ -22,3 +22,5 @@ exercícios.
 ## Prática competitiva
 
 - [Plataformas para praticar](competicoes/plataformas.md)
+- [Competições e contests](competicoes/competicoes.md)
+- [Espaço das Programadoras](competicoes/programadoras.md)

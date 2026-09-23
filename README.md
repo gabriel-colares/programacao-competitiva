@@ -43,6 +43,8 @@ provas para prática.
 | Explicações de fundamentos | [Materiais](materiais/README.md) |
 | Cursos para começar do zero | [Recursos online](materiais/comecando/recursos-online.md) |
 | Onde resolver problemas | [Plataformas para praticar](materiais/competicoes/plataformas.md) |
+| Quais competições disputar | [Competições e contests](materiais/competicoes/competicoes.md) |
+| Oportunidades para programadoras | [Espaço das Programadoras](materiais/competicoes/programadoras.md) |
 | Como configurar e executar código | [Ambiente de prática](materiais/comecando/ambiente-de-pratica.md) |
 | Raciocínio visual antes do código | [Introdução a fluxogramas](materiais/comecando/fluxogramas.md) |
 | Planejamento de conteúdo | [Roadmap 2026](roadmap/2026.md) |
@@ -64,6 +66,18 @@ Antes de submeter, compile e execute localmente. O guia de
 [ambiente de prática](materiais/comecando/ambiente-de-pratica.md) mostra como
 escolher um editor, desativar sugestões automáticas e usar o terminal em vez de
 depender de um botão de execução.
+
+## Competições
+
+Consulte o guia de [competições e contests](materiais/competicoes/competicoes.md).
+Ele reúne opções recorrentes abertas ao público, disputas on-line e uma
+competição universitária em equipes.
+
+## Programadoras
+
+O [Espaço das Programadoras](materiais/competicoes/programadoras.md) reúne
+competições femininas no Brasil, caminhos para representar o país na EGOI e
+oportunidades latino-americanas.
 
 ## Aprender sem saber programar
 

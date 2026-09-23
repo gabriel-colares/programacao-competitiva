@@ -5,39 +5,6 @@ do aprendizado e devem ser compreendidos separadamente.
 
 ## Editores recomendados
 
-### Geany
-
-O [Geany](https://www.geany.org/) é leve, funciona em Linux, Windows e macOS e
-oferece edição com destaque de sintaxe sem exigir uma configuração complexa. É
-uma boa escolha para quem está começando.
-
-### Sublime Text
-
-O [Sublime Text](https://www.sublimetext.com/) é rápido, leve e está disponível
-para Linux, Windows e macOS. Ele pode ser avaliado gratuitamente, mas é um
-software proprietário com licença paga.
-
-Para praticar sem completar código automaticamente, abra `Preferences`, depois
-`Settings`, e adicione:
-
-```json
-{
-  "auto_complete": false
-}
-```
-
-### Kate
-
-O [Kate](https://kate-editor.org/) é um editor livre para Linux, Windows e
-macOS. Possui destaque de sintaxe e terminal integrado. Nos treinos, mantenha o
-plugin de LSP e outros recursos de autocompletar desativados.
-
-### Notepad++
-
-O [Notepad++](https://notepad-plus-plus.org/) é livre, pequeno e rápido, mas
-está disponível somente para Windows. É adequado para editar arquivos simples
-enquanto compilação e execução são feitas em um terminal separado.
-
 ### Visual Studio Code
 
 O [Visual Studio Code](https://code.visualstudio.com/) possui terminal integrado
@@ -58,6 +25,39 @@ Use estas configurações para reduzir sugestões automáticas:
 Desative GitHub Copilot, outras ferramentas de IA e extensões como Code Runner
 durante a prática. Destaque de sintaxe, numeração de linhas e indentação
 automática podem continuar ativos.
+
+### Sublime Text
+
+O [Sublime Text](https://www.sublimetext.com/) é rápido, leve e está disponível
+para Linux, Windows e macOS. Ele pode ser avaliado gratuitamente, mas é um
+software proprietário com licença paga.
+
+Para praticar sem completar código automaticamente, abra `Preferences`, depois
+`Settings`, e adicione:
+
+```json
+{
+  "auto_complete": false
+}
+```
+
+### Geany
+
+O [Geany](https://www.geany.org/) é leve, funciona em Linux, Windows e macOS e
+oferece edição com destaque de sintaxe sem exigir uma configuração complexa. É
+uma boa escolha para quem está começando.
+
+### Kate
+
+O [Kate](https://kate-editor.org/) é um editor livre para Linux, Windows e
+macOS. Possui destaque de sintaxe e terminal integrado. Nos treinos, mantenha o
+plugin de LSP e outros recursos de autocompletar desativados.
+
+### Notepad++
+
+O [Notepad++](https://notepad-plus-plus.org/) é livre, pequeno e rápido, mas
+está disponível somente para Windows. É adequado para editar arquivos simples
+enquanto compilação e execução são feitas em um terminal separado.
 
 O ambiente permitido varia entre competições. Mesmo quando algum recurso de
 completar código está disponível, o participante não deve depender dele para
