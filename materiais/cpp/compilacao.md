@@ -21,3 +21,6 @@ Ou use um arquivo como entrada:
 Os avisos não impedem necessariamente a compilação, mas frequentemente revelam
 variáveis não usadas, conversões perigosas e outros indícios de erro. Corrija-os
 antes de submeter.
+
+Consulte também o guia completo de
+[ambiente para prática](../comecando/ambiente-de-pratica.md).

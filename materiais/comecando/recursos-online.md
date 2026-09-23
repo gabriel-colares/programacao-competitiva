@@ -73,3 +73,7 @@ Programação Competitiva.
 
 Evite assistir a muitas aulas sem praticar. Programação é uma habilidade
 construída principalmente pela resolução de problemas.
+
+Quando estiver pronto para enviar suas primeiras soluções, consulte as
+[plataformas para praticar](../competicoes/plataformas.md) e prepare seu
+[ambiente local](ambiente-de-pratica.md).

@@ -6,6 +6,7 @@ exercícios.
 ## Começando
 
 - [Recursos online para começar do zero](comecando/recursos-online.md)
+- [Ambiente para praticar de verdade](comecando/ambiente-de-pratica.md)
 - [Como interpretar problemas](comecando/como-ler-problemas.md)
 - [Fluxogramas: resolvendo antes de programar](comecando/fluxogramas.md)
 - [Entrada e saída](comecando/entrada-e-saida.md)
@@ -17,3 +18,7 @@ exercícios.
 
 - [Compilação](cpp/compilacao.md)
 - [Condicionais](cpp/condicionais.md)
+
+## Prática competitiva
+
+- [Plataformas para praticar](competicoes/plataformas.md)

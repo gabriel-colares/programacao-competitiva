@@ -6,6 +6,7 @@
   <a href="./aulas/README.md"><img alt="Aulas" src="https://img.shields.io/badge/aulas-material_de_estudo-18a558?style=for-the-badge"></a>
   <a href="./provas/README.md"><img alt="Provas" src="https://img.shields.io/badge/provas-OBI_e_Maratona_SBC-0b6e4f?style=for-the-badge"></a>
   <a href="./materiais/README.md"><img alt="Materiais" src="https://img.shields.io/badge/materiais-fundamentos-064e3b?style=for-the-badge"></a>
+  <a href="./materiais/competicoes/plataformas.md"><img alt="Pratique" src="https://img.shields.io/badge/pratique-online_judges-0f766e?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -41,6 +42,8 @@ provas para prática.
 | Cadernos para praticar | [Provas da OBI e da Maratona SBC](provas/README.md) |
 | Explicações de fundamentos | [Materiais](materiais/README.md) |
 | Cursos para começar do zero | [Recursos online](materiais/comecando/recursos-online.md) |
+| Onde resolver problemas | [Plataformas para praticar](materiais/competicoes/plataformas.md) |
+| Como configurar e executar código | [Ambiente de prática](materiais/comecando/ambiente-de-pratica.md) |
 | Raciocínio visual antes do código | [Introdução a fluxogramas](materiais/comecando/fluxogramas.md) |
 | Planejamento de conteúdo | [Roadmap 2026](roadmap/2026.md) |
 
@@ -49,6 +52,18 @@ provas para prática.
 | Aula | Data | Conteúdo |
 | --- | --- | --- |
 | [Aula 00 - Introdução](aulas/2026/aula-00-introducao/README.md) | 18/09/2026 | Formato dos problemas, Ad-Hoc, compilação e testes |
+
+## Pratique
+
+Comece com problemas introdutórios em português e avance gradualmente para
+contests. Consulte o guia de [plataformas para praticar](materiais/competicoes/plataformas.md),
+com recomendações para beecrowd, Neps Academy, OBI, HackerRank, Codeforces,
+AtCoder, CSES e LeetCode.
+
+Antes de submeter, compile e execute localmente. O guia de
+[ambiente de prática](materiais/comecando/ambiente-de-pratica.md) mostra como
+escolher um editor, desativar sugestões automáticas e usar o terminal em vez de
+depender de um botão de execução.
 
 ## Aprender sem saber programar
 

@@ -43,6 +43,8 @@ fluxogramas e comparar o raciocínio com as resoluções visuais.
 ## Material complementar
 
 - [Cursos e recursos para começar do zero](../../../materiais/comecando/recursos-online.md)
+- [Ambiente, editores e execução pelo terminal](../../../materiais/comecando/ambiente-de-pratica.md)
+- [Plataformas para praticar](../../../materiais/competicoes/plataformas.md)
 - [Como interpretar problemas](../../../materiais/comecando/como-ler-problemas.md)
 - [Fluxogramas: resolvendo sem código](../../../materiais/comecando/fluxogramas.md)
 - [Entrada e saída](../../../materiais/comecando/entrada-e-saida.md)
