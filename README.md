@@ -20,7 +20,7 @@
   Centro dedicado a aprender, praticar e compartilhar Programação Competitiva.
 </p>
 
-## Sobre o projeto
+## 🎯 Sobre o projeto
 
 Construímos uma base sólida de interpretação, implementação e testes antes de
 avançar para algoritmos e estruturas de dados mais complexos. O repositório
@@ -29,12 +29,12 @@ provas para prática.
 
 | | Objetivo |
 | --- | --- |
-| **Aprender** | Desenvolver raciocínio lógico e técnicas de resolução de problemas. |
-| **Praticar** | Criar uma rotina com exercícios, aulas e simulados. |
-| **Compartilhar** | Discutir ideias e diferentes abordagens em comunidade. |
-| **Competir** | Preparar equipes para a OBI e a Maratona SBC de Programação. |
+| **📚 Aprender** | Desenvolver raciocínio lógico e técnicas de resolução de problemas. |
+| **💻 Praticar** | Criar uma rotina com exercícios, aulas e simulados. |
+| **🤝 Compartilhar** | Discutir ideias e diferentes abordagens em comunidade. |
+| **🏆 Competir** | Preparar equipes para a OBI e a Maratona SBC de Programação. |
 
-## Comece aqui
+## 🧭 Comece aqui
 
 | Se você procura... | Acesse |
 | --- | --- |
@@ -49,13 +49,13 @@ provas para prática.
 | Raciocínio visual antes do código | [Introdução a fluxogramas](materiais/comecando/fluxogramas.md) |
 | Planejamento de conteúdo | [Roadmap 2026](roadmap/2026.md) |
 
-## Aulas
+## 📚 Aulas
 
 | Aula | Data | Conteúdo |
 | --- | --- | --- |
 | [Aula 00 - Introdução](aulas/2026/aula-00-introducao/README.md) | 18/09/2026 | Formato dos problemas, Ad-Hoc, compilação e testes |
 
-## Pratique
+## 💻 Pratique
 
 Comece com problemas introdutórios em português e avance gradualmente para
 contests. Consulte o guia de [plataformas para praticar](materiais/competicoes/plataformas.md),
@@ -67,19 +67,19 @@ Antes de submeter, compile e execute localmente. O guia de
 escolher um editor, desativar sugestões automáticas e usar o terminal em vez de
 depender de um botão de execução.
 
-## Competições
+## 🏆 Competições
 
 Consulte o guia de [competições e contests](materiais/competicoes/competicoes.md).
 Ele reúne opções recorrentes abertas ao público, disputas on-line e uma
 competição universitária em equipes.
 
-## Programadoras
+## 🌸 Programadoras
 
 O [Espaço das Programadoras](materiais/competicoes/programadoras.md) reúne
 competições femininas no Brasil, caminhos para representar o país na EGOI e
 oportunidades latino-americanas.
 
-## Aprender sem saber programar
+## 🌱 Aprender sem saber programar
 
 Programação Competitiva começa pelo raciocínio, não pela sintaxe. Os materiais
 introdutórios usam explicações em linguagem natural e fluxogramas para que quem
@@ -103,7 +103,7 @@ problemas no papel.
 
 </details>
 
-## Estrutura
+## 🗂️ Estrutura
 
 ```text
 programacao-competitiva/
@@ -114,7 +114,7 @@ programacao-competitiva/
 └── roadmap/      # planejamento do grupo
 ```
 
-## Ambiente
+## 🛠️ Ambiente
 
 Os exemplos iniciais usam C++17 e Python 3.
 
@@ -123,7 +123,7 @@ g++ -Wall -Wextra -pedantic -std=c++17 arquivo.cpp -o programa
 ./programa < entrada.in
 ```
 
-## Comunidade
+## 🤝 Comunidade
 
 Use o GitHub Discussions para dúvidas e troca de abordagens. Evite publicar uma
 solução completa de imediato: descreva primeiro o que tentou, onde travou e
@@ -132,7 +132,7 @@ quais casos de teste analisou.
 Contribuições são bem-vindas. Consulte o [guia de contribuição](CONTRIBUTING.md)
 e o [código de conduta](CODE_OF_CONDUCT.md).
 
-## Contribuidores
+## 👥 Contribuidores
 
 <p>
   <a href="https://github.com/gabriel-colares" title="Gabriel Colares">
@@ -140,7 +140,7 @@ e o [código de conduta](CODE_OF_CONDUCT.md).
   </a>
 </p>
 
-## Licença
+## 📄 Licença
 
 O conteúdo produzido pelo grupo é disponibilizado sob a [Licença MIT](LICENSE).
 Provas e outros materiais de terceiros permanecem sujeitos aos direitos de seus
