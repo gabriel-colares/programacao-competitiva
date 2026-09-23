@@ -40,6 +40,7 @@ provas para prática.
 | Conteúdo apresentado nos encontros | [Aulas](aulas/README.md) |
 | Cadernos para praticar | [Provas da OBI e da Maratona SBC](provas/README.md) |
 | Explicações de fundamentos | [Materiais](materiais/README.md) |
+| Cursos para começar do zero | [Recursos online](materiais/comecando/recursos-online.md) |
 | Raciocínio visual antes do código | [Introdução a fluxogramas](materiais/comecando/fluxogramas.md) |
 | Planejamento de conteúdo | [Roadmap 2026](roadmap/2026.md) |
 
@@ -56,6 +57,7 @@ introdutórios usam explicações em linguagem natural e fluxogramas para que qu
 ainda não conhece C++ ou Python possa participar das aulas e resolver os
 problemas no papel.
 
+- siga a seleção de [cursos e recursos para iniciantes](materiais/comecando/recursos-online.md);
 - comece pelo material [Fluxogramas: resolvendo antes de programar](materiais/comecando/fluxogramas.md);
 - acompanhe as setas e teste exemplos como se você fosse o computador;
 - compare sua ideia com as resoluções visuais antes de abrir o código;
@@ -75,7 +77,7 @@ problemas no papel.
 ## Estrutura
 
 ```text
-.
+programacao-competitiva/
 ├── assets/       # identidade visual e divulgação
 ├── aulas/        # encontros organizados por ano
 ├── materiais/    # fundamentos e referências
