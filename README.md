@@ -1,65 +1,116 @@
-# Programação Competitiva IFAM
-
 <p align="center">
-  <img src="design/logo-programação-competitiva.png" alt="Logo da Programação Competitiva IFAM" width="240">
+  <img src="./assets/banner/banner.png" width="100%" alt="Programação Competitiva IFAM CMC">
 </p>
 
-Repositório do grupo de estudos de Programação Competitiva do curso de Ciência
-da Computação do IFAM Campus Manaus Centro, iniciado com estudantes da 1ª e da
-2ª turmas.
+<p align="center">
+  <a href="./aulas/README.md"><img alt="Aulas" src="https://img.shields.io/badge/aulas-material_de_estudo-18a558?style=for-the-badge"></a>
+  <a href="./provas/README.md"><img alt="Provas" src="https://img.shields.io/badge/provas-OBI_e_Maratona_SBC-0b6e4f?style=for-the-badge"></a>
+  <a href="./materiais/README.md"><img alt="Materiais" src="https://img.shields.io/badge/materiais-fundamentos-064e3b?style=for-the-badge"></a>
+</p>
 
-Estamos construindo a base: interpretação de enunciados, entrada e saída,
-raciocínio passo a passo e problemas Ad-Hoc. Conteúdos mais avançados serão
-adicionados gradualmente, conforme o grupo avançar.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=18A558&center=true&vCenter=true&width=760&lines=Ideias+viram+algoritmos.;Prática%2C+discussão+e+evolução+constante.;OBI+%7C+Maratona+SBC+%7C+ICPC" alt="Ideias viram algoritmos">
+</p>
 
-## Objetivos
+<h1 align="center">Programação Competitiva - IFAM CMC</h1>
 
-- desenvolver raciocínio lógico e prática de resolução de problemas;
-- aproximar estudantes por meio de treinos e discussão de soluções;
-- criar uma rotina de estudos e contests;
-- preparar equipes para a OBI e para a Maratona SBC de Programação.
+<p align="center">
+  Grupo de estudos do curso de Ciência da Computação do IFAM - Campus Manaus
+  Centro dedicado a aprender, praticar e compartilhar Programação Competitiva.
+</p>
 
-## Conteúdo
+## Sobre o projeto
 
-| Encontro | Tema | Materiais |
+Construímos uma base sólida de interpretação, implementação e testes antes de
+avançar para algoritmos e estruturas de dados mais complexos. O repositório
+acompanha as aulas do grupo, reúne materiais de apoio e mantém um acervo de
+provas para prática.
+
+| | Objetivo |
+| --- | --- |
+| **Aprender** | Desenvolver raciocínio lógico e técnicas de resolução de problemas. |
+| **Praticar** | Criar uma rotina com exercícios, aulas e simulados. |
+| **Compartilhar** | Discutir ideias e diferentes abordagens em comunidade. |
+| **Competir** | Preparar equipes para a OBI e a Maratona SBC de Programação. |
+
+## Comece aqui
+
+| Se você procura... | Acesse |
+| --- | --- |
+| Conteúdo apresentado nos encontros | [Aulas](aulas/README.md) |
+| Cadernos para praticar | [Provas da OBI e da Maratona SBC](provas/README.md) |
+| Explicações de fundamentos | [Materiais](materiais/README.md) |
+| Raciocínio visual antes do código | [Introdução a fluxogramas](materiais/comecando/fluxogramas.md) |
+| Planejamento de conteúdo | [Roadmap 2026](roadmap/2026.md) |
+
+## Aulas
+
+| Aula | Data | Conteúdo |
 | --- | --- | --- |
-| [Aula 0](aula-0/) | Introdução e problemas Ad-Hoc | Slides, prova da OBI 2026 e problema Elevador |
+| [Aula 00 - Introdução](aulas/2026/aula-00-introducao/README.md) | 18/09/2026 | Formato dos problemas, Ad-Hoc, compilação e testes |
 
-## Como estudar
+## Aprender sem saber programar
 
-1. Leia o material da aula.
-2. Escolha um problema e identifique a entrada, a saída e os limites.
-3. Resolva alguns exemplos no papel antes de programar.
-4. Implemente e teste sua própria solução.
-5. Só depois compare sua ideia com as soluções de referência.
+Programação Competitiva começa pelo raciocínio, não pela sintaxe. Os materiais
+introdutórios usam explicações em linguagem natural e fluxogramas para que quem
+ainda não conhece C++ ou Python possa participar das aulas e resolver os
+problemas no papel.
+
+- comece pelo material [Fluxogramas: resolvendo antes de programar](materiais/comecando/fluxogramas.md);
+- acompanhe as setas e teste exemplos como se você fosse o computador;
+- compare sua ideia com as resoluções visuais antes de abrir o código;
+- use as descrições em palavras caso seu leitor não renderize Mermaid.
+
+<details>
+<summary><strong>Como aproveitar melhor cada aula</strong></summary>
+
+1. Leia o material e identifique entrada, saída e limites.
+2. Descreva a solução em palavras ou em um fluxograma antes de programar.
+3. Implemente e crie seus próprios casos de teste.
+4. Consulte as dicas gradualmente quando estiver travado.
+5. Compare sua abordagem com as referências somente depois de tentar.
+
+</details>
+
+## Estrutura
+
+```text
+.
+├── assets/       # identidade visual e divulgação
+├── aulas/        # encontros organizados por ano
+├── materiais/    # fundamentos e referências
+├── provas/       # cadernos da OBI e da Maratona SBC
+└── roadmap/      # planejamento do grupo
+```
 
 ## Ambiente
 
 Os exemplos iniciais usam C++17 e Python 3.
 
 ```bash
-# C++
-g++ -Wall -Wextra -std=c++17 arquivo.cpp -o programa
+g++ -Wall -Wextra -pedantic -std=c++17 arquivo.cpp -o programa
 ./programa < entrada.in
-
-# Python
-python3 arquivo.py < entrada.in
 ```
 
-## Estrutura
+## Comunidade
 
-```text
-.
-├── aula-0/       # primeiro encontro e exercícios
-├── design/       # identidade visual e peças de divulgação
-└── README.md
-```
+Use o GitHub Discussions para dúvidas e troca de abordagens. Evite publicar uma
+solução completa de imediato: descreva primeiro o que tentou, onde travou e
+quais casos de teste analisou.
 
-Contribuições dos participantes são bem-vindas. Antes de enviar uma solução,
-consulte o [guia de contribuição](CONTRIBUTING.md).
+Contribuições são bem-vindas. Consulte o [guia de contribuição](CONTRIBUTING.md)
+e o [código de conduta](CODE_OF_CONDUCT.md).
+
+## Contribuidores
+
+<p>
+  <a href="https://github.com/gabriel-colares" title="Gabriel Colares">
+    <img src="https://github.com/gabriel-colares.png" width="72" height="72" alt="@gabriel-colares">
+  </a>
+</p>
 
 ## Licença
 
 O conteúdo produzido pelo grupo é disponibilizado sob a [Licença MIT](LICENSE).
-Materiais de terceiros, como provas da OBI, permanecem sujeitos aos direitos de
-seus respectivos autores.
+Provas e outros materiais de terceiros permanecem sujeitos aos direitos de seus
+respectivos autores.
