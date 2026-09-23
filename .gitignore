@@ -8,7 +8,7 @@ elevador
 *.exe
 *.o
 *.out
-!aula-*/testes/*.out
+!aulas/**/testes/*.out
 
 # Python
 __pycache__/

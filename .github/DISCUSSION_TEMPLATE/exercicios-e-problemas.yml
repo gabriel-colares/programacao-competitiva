@@ -1,0 +1,25 @@
+title: "[Aula XX][Problema XX] Nome do problema"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Descreva sua dúvida sem publicar imediatamente a solução completa.
+  - type: input
+    id: problema
+    attributes:
+      label: Problema
+      description: Informe o nome e o link do problema.
+    validations:
+      required: true
+  - type: textarea
+    id: tentativa
+    attributes:
+      label: O que você tentou?
+      description: Explique sua ideia e até onde conseguiu avançar.
+    validations:
+      required: true
+  - type: textarea
+    id: caso
+    attributes:
+      label: Caso de teste
+      description: Mostre uma entrada relevante, a saída esperada e a saída obtida.
